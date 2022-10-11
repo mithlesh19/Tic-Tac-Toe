@@ -4,7 +4,8 @@ A game in which two players seek in alternate turns to complete a row, a column,
 ![](./tic-tac-toe.jpg)
 # TECH STACK 🧑‍💻
 HTML , CSS , JAVASCRIPT .
-RULES FOR TIC-TAC-TOE
+
+# RULES FOR TIC-TAC-TOE
 
 I. The game is played on a grid that's 3 squares by 3 squares.
 
