@@ -1,5 +1,6 @@
 # Tic-Tac-Toe
-
+# Screenshot
+![](./tic-tac-toe.jpg)
 
 RULES FOR TIC-TAC-TOE
 
